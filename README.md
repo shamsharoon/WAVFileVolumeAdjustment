@@ -6,7 +6,9 @@ Avoid using excessively large numbers for the refactoring factor (`factor`) as i
 
 ## Overview
 
-This program, `volume.c`, is designed to modify the volume of a WAV audio file. It reads an input WAV file, scales the volume by a given factor, and writes the modified audio to an output WAV file.
+This program, `volume.c`, is designed to modify the volume of a WAV audio file. It reads an input WAV file, scales the volume by a given factor, and writes the modified audio to an output WAV file. 
+
+Try using this feature with your own .WAV files too!
 
 ## Usage
 
